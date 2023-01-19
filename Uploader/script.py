@@ -30,6 +30,8 @@ Hello Dear {}
 
 I am Powerful & Adv Url Uploader Bot!
 Sene Me Url's So That I Can Upload It For You🥳
+YouTube, Google Drive, Apple Music, Spotify, Resso,
+& direct Links support.
 """
 
     HELP_TEXT = """
