@@ -28,8 +28,8 @@ class Translation(object):
     START_TEXT = """
 Hello Dear {} 
 
-I am Powerful & Adv Url Uploader Bot
- 
+I am Powerful & Adv Url Uploader Bot!
+Sene Me Url's So That I Can Upload It For You🥳
 """
 
     HELP_TEXT = """
@@ -48,6 +48,8 @@ I am Powerful & Adv Url Uploader Bot
 <b>♻️ My Name</b> : Advance Url Uploader Bot
 
 <b>🌀 Our Channel</b> : <a href="https://t.me/z_harbour">Z_Harbour</a>
+
+<b>🍿Our Group🍿</b> : <a href="https://t.me/blackest_harbour">BLACK MARKET</a>
 
 <b>🌺 Server</b> : <a href="https://railway.com/">Railway</a>
 
