@@ -175,7 +175,7 @@ async def youtube_dl_call_back(bot, update):
     t_response = stdout.decode().strip()
     logger.info(e_response)
     logger.info(t_response)
-    ad_string_to_replace = "please report this issue on https://github.com/kalanakt/All-Url-Uploader/issues"
+    ad_string_to_replace = "please report this issue on https://github.com/Ayush64047"
     if e_response and ad_string_to_replace in e_response:
         error_message = e_response.replace(ad_string_to_replace, "")
         await update.message.edit_caption(
